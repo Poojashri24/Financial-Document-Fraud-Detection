@@ -1,0 +1,4 @@
+﻿Model,Validation Accuracy,Validation Precision,Validation Recall,Validation F1,Validation ROC-AUC,Official Test Accuracy,Official Test Precision,Official Test Recall,Official Test F1,Official Test ROC-AUC,Role
+MobileNetV3-Small + Logistic Regression,0.607692,0.626812,0.532308,0.575707,0.68267,0.520936,0.526074,0.422414,0.468579,0.517846,Active
+MobileNetV3-Small + HistGradientBoosting,0.650769,0.667808,0.6,0.632091,0.701387,0.493227,0.491876,0.410099,0.44728,0.502733,Experimental / not active
+"MobileNetV3-Small partial fine-tune, 96x96",0.675385,0.69,0.636923,0.6624,0.762149,0.501847,0.502098,0.442118,0.470203,0.510476,Experimental / not active

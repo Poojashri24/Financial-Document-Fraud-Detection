@@ -1,0 +1,3902 @@
+[
+  {
+    "image": "TrainingSet/authentic/14.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5377370522165626
+  },
+  {
+    "image": "TrainingSet/authentic/1640.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.9064316575621528
+  },
+  {
+    "image": "TrainingSet/authentic/64c23c05a9e2e48618c0a20a76f4711ec597c3b5.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.27069452916365483
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414593.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5908863794677327
+  },
+  {
+    "image": "TrainingSet/authentic/X51005676540.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4565113502801776
+  },
+  {
+    "image": "TrainingSet/authentic/X51005724626.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5938561987397254
+  },
+  {
+    "image": "TrainingSet/authentic/1651.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2572642504364233
+  },
+  {
+    "image": "TrainingSet/authentic/4378.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.12547732542648135
+  },
+  {
+    "image": "TrainingSet/authentic/5df175e76bf69c37224c234a86d567eccc568fd6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2938322325379921
+  },
+  {
+    "image": "TrainingSet/authentic/3c4647e237876088b9aa0fb6d15aef1a0a60882e.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1606692545449223
+  },
+  {
+    "image": "TrainingSet/authentic/32c6def6f55ba732dd6f9275478c16ce1d61e70b.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6029625920845105
+  },
+  {
+    "image": "TrainingSet/authentic/X51005337877.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6309460492133929
+  },
+  {
+    "image": "TrainingSet/authentic/X51005711441.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6736822567250704
+  },
+  {
+    "image": "TrainingSet/authentic/X51006913054.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5564623865305338
+  },
+  {
+    "image": "TrainingSet/authentic/5aab13bd8cc6bde9d8ed3b110774c3e20a1b2ae3.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.04811674742466354
+  },
+  {
+    "image": "TrainingSet/authentic/994526ac33f6be2a68c1412fd84668604b695f8a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.006926200797785049
+  },
+  {
+    "image": "TrainingSet/authentic/532f8b689b61689a392cb68b2948ebc0e6fec03c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.23119146836375967
+  },
+  {
+    "image": "TrainingSet/authentic/7ef67dd2ed524784ea0ad39904a1fa0ce77da3f0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1453432005818888
+  },
+  {
+    "image": "TrainingSet/authentic/014012b2bb3b2beefe92047a01467c08f756ecca.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.17343862839989485
+  },
+  {
+    "image": "TrainingSet/authentic/79c43cefd79e3acb33728fe87a840f7611083fde.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.01811714551799174
+  },
+  {
+    "image": "TrainingSet/authentic/34bfd6a9152b94628f5c16f38e6c3c17ceb00448.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.02721017077862038
+  },
+  {
+    "image": "TrainingSet/authentic/X51006555125.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.8827609277148368
+  },
+  {
+    "image": "TrainingSet/authentic/X51006912998.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5292502278703185
+  },
+  {
+    "image": "TrainingSet/authentic/4302.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46056327488350607
+  },
+  {
+    "image": "TrainingSet/authentic/X51005268400.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07734775756003222
+  },
+  {
+    "image": "TrainingSet/authentic/X51006466070.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.16871035968015208
+  },
+  {
+    "image": "TrainingSet/authentic/845bdfe454fa07257b02882447c38656fa2edd4c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.03124029730787425
+  },
+  {
+    "image": "TrainingSet/authentic/3544.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.770762055901606
+  },
+  {
+    "image": "TrainingSet/authentic/48f03bb23b5ddca251a22318c94d0344b9ac42ea.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.20419891591580175
+  },
+  {
+    "image": "TrainingSet/authentic/X51007391372.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.578500408379694
+  },
+  {
+    "image": "TrainingSet/authentic/07915ebef5b92e4a522431f52befec3744df2b03.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6604080288324333
+  },
+  {
+    "image": "TrainingSet/authentic/X51005676536.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.41773368584178017
+  },
+  {
+    "image": "TrainingSet/authentic/1423.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08254663498414162
+  },
+  {
+    "image": "TrainingSet/authentic/217421bd6992d0a10a2e3fa0555827a023134466.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.03148079905455815
+  },
+  {
+    "image": "TrainingSet/authentic/X51005705722.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6883739074662311
+  },
+  {
+    "image": "TrainingSet/authentic/952ca75f2e550c3e456ed9d6a2f34368a9da339d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.005406574058395236
+  },
+  {
+    "image": "TrainingSet/authentic/1b717396317fe0127d8bf4754a2fba4636825549.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6962871233860969
+  },
+  {
+    "image": "TrainingSet/authentic/4ec74e8ede8f0ef8ce93d37a17cec9d412ebeb21.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0032231037374363843
+  },
+  {
+    "image": "TrainingSet/authentic/9c9204e33ac46707f0244bc299f4365a013515c7.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6201812766087312
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556730.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.406073968352471
+  },
+  {
+    "image": "TrainingSet/authentic/3907.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2350562643484387
+  },
+  {
+    "image": "TrainingSet/authentic/X51006619779.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7497170677343292
+  },
+  {
+    "image": "TrainingSet/authentic/2c9c08f42a0614fb7711867f99423b00ab7875d1.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2706597064686228
+  },
+  {
+    "image": "TrainingSet/authentic/971cc466fe9f8083fc08b7fc2c60d76e3828804d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.10787209619959066
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339114.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.8232080995225628
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414715.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.25212491556429445
+  },
+  {
+    "image": "TrainingSet/authentic/3d2ab4b7af209cc3949996aeae42ab2e87e3b2e5.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.02356290171712076
+  },
+  {
+    "image": "TrainingSet/authentic/4e43fdfd93cfe5a801b1ff2092f8b0b5bef8aff9.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5044680662573979
+  },
+  {
+    "image": "TrainingSet/authentic/2443.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.14001277007868623
+  },
+  {
+    "image": "TrainingSet/authentic/6dec3c976330ca2c62d1c9238bb38034163ef813.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4468037683417274
+  },
+  {
+    "image": "TrainingSet/authentic/82b71b4cd3e200f4345ec9ada4f55b0379b90063.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.33435484670553045
+  },
+  {
+    "image": "TrainingSet/authentic/1751.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4418226318974123
+  },
+  {
+    "image": "TrainingSet/authentic/2215fbfd1a55ac76beb30220788389273e5d3cba.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5655495683169312
+  },
+  {
+    "image": "TrainingSet/authentic/X51006389888.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0667133610334324
+  },
+  {
+    "image": "TrainingSet/authentic/X51006401978.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.20738619533077626
+  },
+  {
+    "image": "TrainingSet/authentic/155075556d30d0ccfcf04da13afa7dec8becc83d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.020944298030835945
+  },
+  {
+    "image": "TrainingSet/authentic/9e1271493358a34a2aaf7dd08727be5b5dc787ec.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2736945019632131
+  },
+  {
+    "image": "TrainingSet/authentic/861d974a982e84afc9098d441a2415746c124f6b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.01284457789550147
+  },
+  {
+    "image": "TrainingSet/authentic/8c2d0a915c1a89cc898cea3e08bf3c0e3910a5d0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.328976044850353
+  },
+  {
+    "image": "TrainingSet/authentic/72f97af96de113eba9b66ef4278b0abfac5c85e4.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3685396423082357
+  },
+  {
+    "image": "TrainingSet/authentic/8ecf2f4c404566eee3c67395b0c23d22e88fde95.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.006302252475554452
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414592.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6652778832629164
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339125.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.313631465996772
+  },
+  {
+    "image": "TrainingSet/authentic/20de30bff37e86af0d9ef159bb510f16f5a2da8c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4301306164704321
+  },
+  {
+    "image": "TrainingSet/authentic/3c49375f42c5214a4dff504f37dc51245bac8244.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.05893627396233901
+  },
+  {
+    "image": "TrainingSet/authentic/845be0dd6f5b04866a2042abd28d558032ef2576.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2113760965180064
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414733.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.36923758744144075
+  },
+  {
+    "image": "TrainingSet/authentic/4be910cb916f3907e0a679da1bee26be24742bb7.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.23186295526224718
+  },
+  {
+    "image": "TrainingSet/authentic/X00016469612.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2122499231725822
+  },
+  {
+    "image": "TrainingSet/authentic/X51005724609.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.15969465306427333
+  },
+  {
+    "image": "TrainingSet/authentic/X51005719905.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.643045699640034
+  },
+  {
+    "image": "TrainingSet/authentic/2a0a5634b5d0638fa19f315acc5da9b65b8ff3f9.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.006686167880856632
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556740.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46374078585248635
+  },
+  {
+    "image": "TrainingSet/authentic/4308.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.020025103436645895
+  },
+  {
+    "image": "TrainingSet/authentic/X51005337867.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.34933428690744445
+  },
+  {
+    "image": "TrainingSet/authentic/X51006466056.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.8693448773100059
+  },
+  {
+    "image": "TrainingSet/authentic/57c9512f3887daeec803ea134535e4688315758c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.04399419190781278
+  },
+  {
+    "image": "TrainingSet/authentic/497.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.31777373771518563
+  },
+  {
+    "image": "TrainingSet/authentic/X51005453729.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.37402873223724903
+  },
+  {
+    "image": "TrainingSet/authentic/X51007846266.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6754581131771047
+  },
+  {
+    "image": "TrainingSet/authentic/69e28cc924172553a9e8591821b9d1ffd2ca0377.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.06695831058118146
+  },
+  {
+    "image": "TrainingSet/authentic/0ee0c7051d837a0c66ba7f4d5fe45d0dcb5e6d2e.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3523895086157206
+  },
+  {
+    "image": "TrainingSet/authentic/192.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.027572177505956762
+  },
+  {
+    "image": "TrainingSet/authentic/47112076abdd71a652c4e9c5dbf7d1511b7fe025.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46559470472081077
+  },
+  {
+    "image": "TrainingSet/authentic/165d67e579cc7172f6529d2e03e8d1ede96e17bb.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.007412296247231988
+  },
+  {
+    "image": "TrainingSet/authentic/X51006334926.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.35712057549222925
+  },
+  {
+    "image": "TrainingSet/authentic/1962.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.12811953075852317
+  },
+  {
+    "image": "TrainingSet/authentic/035328b05be076b4f7568a5f3efa10575e176ec0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0779653635984085
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339164.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6003524883284805
+  },
+  {
+    "image": "TrainingSet/authentic/X51005749912.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6674808207333314
+  },
+  {
+    "image": "TrainingSet/authentic/473d7f72d3700a1e57bbb62129e90dc66d4b22d8.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07041825803301692
+  },
+  {
+    "image": "TrainingSet/authentic/X51005710963.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6115153522050257
+  },
+  {
+    "image": "TrainingSet/authentic/X51005749905.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4858217266760039
+  },
+  {
+    "image": "TrainingSet/authentic/0aa89609e5c8ac5aef8d046d77e77bd1835f7561.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0036113828771442984
+  },
+  {
+    "image": "TrainingSet/authentic/6d277cdcdff3d4e440a16d8f920b749b7748511a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07081525151399864
+  },
+  {
+    "image": "TrainingSet/authentic/1805ea4ded42dabaad55f24eedcee85607b7b5ab.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.380038892576399
+  },
+  {
+    "image": "TrainingSet/authentic/4584fcd515b21437567771d7531c11aba03df24a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.02539622052581067
+  },
+  {
+    "image": "TrainingSet/authentic/4de774646cffe1cfecdf78a749a889285ac6f155.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.26150727187639355
+  },
+  {
+    "image": "TrainingSet/authentic/2709.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0991374549175976
+  },
+  {
+    "image": "TrainingSet/authentic/983624103a8baf7599666850f0b79bc6b80db5d6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.11936193306164637
+  },
+  {
+    "image": "TrainingSet/authentic/X51005568890.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4549366230445482
+  },
+  {
+    "image": "TrainingSet/authentic/91ba8386123b1e8ffec9833dd077c22c3ccb89e1.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7315004108935247
+  },
+  {
+    "image": "TrainingSet/authentic/781c3816ff9610d68d594041e4dcfa076fac95a6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1908693420793063
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339639(1).png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.37379868145657413
+  },
+  {
+    "image": "TrainingSet/authentic/X51006502529.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07054264016596257
+  },
+  {
+    "image": "TrainingSet/authentic/X51006620189.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4326446156868005
+  },
+  {
+    "image": "TrainingSet/authentic/63c1361c8dee6bbff0d50e26b2c05ca3c53717f3.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5309377933862451
+  },
+  {
+    "image": "TrainingSet/authentic/4094.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.17499981437284048
+  },
+  {
+    "image": "TrainingSet/authentic/X51007135247.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6602105320180485
+  },
+  {
+    "image": "TrainingSet/authentic/4237dd949927d1d3a386869a419476bd5a1028e9.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3913371970458552
+  },
+  {
+    "image": "TrainingSet/authentic/8bbd8df678ce0059ab0ae826aee908ace08d161b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2283001868597855
+  },
+  {
+    "image": "TrainingSet/authentic/X51005806692.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7103565469680104
+  },
+  {
+    "image": "TrainingSet/authentic/X51005605333.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4790365748560833
+  },
+  {
+    "image": "TrainingSet/authentic/X51006828199.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6240487531673677
+  },
+  {
+    "image": "TrainingSet/authentic/34c58275a373bdc6a77a338228b99450bbca0b58.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5320057119691733
+  },
+  {
+    "image": "TrainingSet/authentic/X51005685355(1).png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5949617461851662
+  },
+  {
+    "image": "TrainingSet/authentic/X00016469672.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7562170846255416
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414599.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.19986724221324442
+  },
+  {
+    "image": "TrainingSet/authentic/2914.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0143911041864531
+  },
+  {
+    "image": "TrainingSet/authentic/2872.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5154745483439191
+  },
+  {
+    "image": "TrainingSet/authentic/X51005663293.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5858619785166854
+  },
+  {
+    "image": "TrainingSet/authentic/194028c93bc8df5546bcca0a749df3fe061e9036.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5987069758488149
+  },
+  {
+    "image": "TrainingSet/authentic/X51005337872.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7954482113115097
+  },
+  {
+    "image": "TrainingSet/authentic/1de7c840f532add49cdf0eeafea2370424d0ddea.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.37444502613238184
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339133.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5470124496285641
+  },
+  {
+    "image": "TrainingSet/authentic/X51006912959.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5821005361569255
+  },
+  {
+    "image": "TrainingSet/authentic/4a71e5916ba1656d50f507f46cac96e1756b60de.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5943186302768438
+  },
+  {
+    "image": "TrainingSet/authentic/1641529e4933ca870600a3ce85559f8f858f3c8c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4969110363662512
+  },
+  {
+    "image": "TrainingSet/authentic/4a0b51498c1c61a1cf8fae2dca0739f93c8eb967.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.19955311605349735
+  },
+  {
+    "image": "TrainingSet/authentic/623690aad81bb7168037db39dced368f68e2d165.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.11890125507434474
+  },
+  {
+    "image": "TrainingSet/authentic/74eb6a846a45613ebbd2379bcb1516b7227bbb0b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08644357861439819
+  },
+  {
+    "image": "TrainingSet/authentic/25266f92935f86e84824233bc81b53495ba044a6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46531485592018323
+  },
+  {
+    "image": "TrainingSet/authentic/0a17dc110a2a86ecc763fb6e3270ba9f87689273.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.198117587862575
+  },
+  {
+    "image": "TrainingSet/authentic/X51005361907.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2983030486957512
+  },
+  {
+    "image": "TrainingSet/authentic/684f8fe48651027acfec59ff5641940de1d90475.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.41595727612671773
+  },
+  {
+    "image": "TrainingSet/authentic/X51005757349.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6137131236355174
+  },
+  {
+    "image": "TrainingSet/authentic/0069776df9951208276e00acf6ac263b45f64598.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.35257934361601606
+  },
+  {
+    "image": "TrainingSet/authentic/X51005663277.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.32699762444816083
+  },
+  {
+    "image": "TrainingSet/authentic/X51005675914.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4935647446342252
+  },
+  {
+    "image": "TrainingSet/authentic/3393ff11d3940495b474b75c2d79324e527e0b7c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 4.6860793054156486e-05
+  },
+  {
+    "image": "TrainingSet/authentic/78419673d9e3ed82e854841eae6859f45ac513a6.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5477479872105151
+  },
+  {
+    "image": "TrainingSet/authentic/X51006619790.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6333829945381768
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339642.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2163981074180574
+  },
+  {
+    "image": "TrainingSet/authentic/X51007103691.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.20445985219247406
+  },
+  {
+    "image": "TrainingSet/authentic/X51006557209.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4606331649474677
+  },
+  {
+    "image": "TrainingSet/authentic/X51006387813.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5463058446316544
+  },
+  {
+    "image": "TrainingSet/authentic/5e2db7e2c776495df5b5ca6dcb90067f4e58805e.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5871761536465983
+  },
+  {
+    "image": "TrainingSet/authentic/X51006329388.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.34437058157517925
+  },
+  {
+    "image": "TrainingSet/authentic/23b237488f362ddc6f04bea5045464cc5d9335d5.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.13936969887490322
+  },
+  {
+    "image": "TrainingSet/authentic/X51005447833.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2912805457568018
+  },
+  {
+    "image": "TrainingSet/authentic/3823.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5526903572629873
+  },
+  {
+    "image": "TrainingSet/authentic/X51005442375.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6748754390911943
+  },
+  {
+    "image": "TrainingSet/authentic/52cfb13d17a1dd9c5d764b0b52c95c167c1d3640.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.14172069329512615
+  },
+  {
+    "image": "TrainingSet/authentic/018af7323503309c0b84d729a28f32df63e396e9.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.010785769245842871
+  },
+  {
+    "image": "TrainingSet/authentic/990.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.741363011999479
+  },
+  {
+    "image": "TrainingSet/authentic/3362036743a6ff98ce65de09973f20b09f481465.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.09544142056961495
+  },
+  {
+    "image": "TrainingSet/authentic/904dad18378d353e6a4e37364f05398f5db02424.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.15200534199856325
+  },
+  {
+    "image": "TrainingSet/authentic/5ceff02beae53a085e18842334f3d762b5cc5b9b.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.785047097516312
+  },
+  {
+    "image": "TrainingSet/authentic/X51007846301.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6716664907930039
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339150.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6749060378536689
+  },
+  {
+    "image": "TrainingSet/authentic/X51006387953.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.10103527580563954
+  },
+  {
+    "image": "TrainingSet/authentic/X51007225406.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.37303287928456563
+  },
+  {
+    "image": "TrainingSet/authentic/X51005663323.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7861950008860049
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556646.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.12375194127243626
+  },
+  {
+    "image": "TrainingSet/authentic/25ceaee9d29a816b93cecf8765ac6af8fdf3cdf6.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.8778649251342228
+  },
+  {
+    "image": "TrainingSet/authentic/X51006619780.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7334938123662448
+  },
+  {
+    "image": "TrainingSet/authentic/055b77c799a9db702da239e22849db22f3d07c6c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07335725779665536
+  },
+  {
+    "image": "TrainingSet/authentic/X51005705804.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7951386042833548
+  },
+  {
+    "image": "TrainingSet/authentic/4efc85eca223ea2e93161308b4b485d8ff1e2fa0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1393338435942575
+  },
+  {
+    "image": "TrainingSet/authentic/X51005663273.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6860744683396859
+  },
+  {
+    "image": "TrainingSet/authentic/9e33546ee55b55da21db0af4cce8dbe324bc663b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46364588474240437
+  },
+  {
+    "image": "TrainingSet/authentic/X51005757323(1).png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4188711964642705
+  },
+  {
+    "image": "TrainingSet/authentic/7acefe51434a0b7e26069d380aeb63a20e2c2349.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.23081366003420162
+  },
+  {
+    "image": "TrainingSet/authentic/7c5a9ac13899f96b70f65c4ab2888e28e5065397.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.006283959629018512
+  },
+  {
+    "image": "TrainingSet/authentic/18.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 7.069444552130984e-05
+  },
+  {
+    "image": "TrainingSet/authentic/X51005757324(1).png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.23609713204736496
+  },
+  {
+    "image": "TrainingSet/authentic/X51007433809.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5962530494063416
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556603.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2635720599918653
+  },
+  {
+    "image": "TrainingSet/authentic/338a3e168f6fa1b01c7fd7c22ad1d5c4e825f503.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5738856494700506
+  },
+  {
+    "image": "TrainingSet/authentic/X51006332575(1).png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.518373297286389
+  },
+  {
+    "image": "TrainingSet/authentic/3290.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.005969554542674296
+  },
+  {
+    "image": "TrainingSet/authentic/2447869706653867674ced9839989ccdda850d3d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.28787231443215505
+  },
+  {
+    "image": "TrainingSet/authentic/12789c766727eff801a3cf20fa832cc4942e3112.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4402008378907945
+  },
+  {
+    "image": "TrainingSet/authentic/203c53d556905f1dec0bd5adb6630c44070c4b69.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4478793446313906
+  },
+  {
+    "image": "TrainingSet/authentic/X51005433538.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6737499101305364
+  },
+  {
+    "image": "TrainingSet/authentic/X51005447844.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6895432060512287
+  },
+  {
+    "image": "TrainingSet/authentic/2c33dfd1f723846c479e37a9a2c28a460eaebf8b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1713911778844445
+  },
+  {
+    "image": "TrainingSet/authentic/X51007846289.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4680401270289582
+  },
+  {
+    "image": "TrainingSet/authentic/74895a61f5f8b0e822fe12470b8364800a601980.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.19837533889912662
+  },
+  {
+    "image": "TrainingSet/authentic/81f0a545a2631dd9d74e22b7f0641375a3ab7ffa.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.003593911673119463
+  },
+  {
+    "image": "TrainingSet/authentic/X51005745190.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4101269201925099
+  },
+  {
+    "image": "TrainingSet/authentic/8dfaccef83b7cd9d424e1e0809ced80654132ed9.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.255510814811942
+  },
+  {
+    "image": "TrainingSet/authentic/X51005745244.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5399849211177162
+  },
+  {
+    "image": "TrainingSet/authentic/52c27023d394c526e2470771a153e004dd5f9ca9.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.577260281596227
+  },
+  {
+    "image": "TrainingSet/authentic/X51005675104.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.45538270931423824
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339648.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2766118713865143
+  },
+  {
+    "image": "TrainingSet/authentic/4d728e1b86613027e4e30c83c07354ade3537b1b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1589794727457999
+  },
+  {
+    "image": "TrainingSet/authentic/X51007846282.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6582791551959377
+  },
+  {
+    "image": "TrainingSet/authentic/53169eceec9ae289070f167c4eb6f98df378242c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08992560808338242
+  },
+  {
+    "image": "TrainingSet/authentic/2d8f955b8268cceaee51157f56b1308d21b73fa5.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.025243014044985308
+  },
+  {
+    "image": "TrainingSet/authentic/9af7313e785b3ac5f17ce0ce25fa0edd9e936b6a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.006400582842562247
+  },
+  {
+    "image": "TrainingSet/authentic/X51006388064.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4345052274172393
+  },
+  {
+    "image": "TrainingSet/authentic/80e89dfdbbd08a82eb5176ad9148b44df0816579.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.007126822837443523
+  },
+  {
+    "image": "TrainingSet/authentic/X51005442346.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2132139872121494
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414429.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5779806293872295
+  },
+  {
+    "image": "TrainingSet/authentic/4262225eee25dd4eaa84200ee012da85eeeb02da.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7279822667324746
+  },
+  {
+    "image": "TrainingSet/authentic/650dd1d128aa5af24639bbaaaad4873e3889f067.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3697801782143115
+  },
+  {
+    "image": "TrainingSet/authentic/X51006619757.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6530911866739624
+  },
+  {
+    "image": "TrainingSet/authentic/X51005719886.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.561621627082719
+  },
+  {
+    "image": "TrainingSet/authentic/4229.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.04189561643835509
+  },
+  {
+    "image": "TrainingSet/authentic/185.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.12031283720162107
+  },
+  {
+    "image": "TrainingSet/authentic/538cc1efed07d9dfb899eed5388897fc5ce63fb0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.011098840990233432
+  },
+  {
+    "image": "TrainingSet/authentic/8267df0e11d12f8959b1bb6029b373447b154e2b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.295203900297081
+  },
+  {
+    "image": "TrainingSet/authentic/653e350f3e8a6e60994205c7345370b8725109d4.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.39007763425298975
+  },
+  {
+    "image": "TrainingSet/authentic/X51007419197.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6371702184793443
+  },
+  {
+    "image": "TrainingSet/authentic/47249238043ac8b105430a456f0788ed8971250f.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.019366800203395724
+  },
+  {
+    "image": "TrainingSet/authentic/161.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.8899883228566805
+  },
+  {
+    "image": "TrainingSet/authentic/689682f492336bbab09e5b3382371d921b836411.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7580160790025757
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556728.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4096844920027256
+  },
+  {
+    "image": "TrainingSet/authentic/4401.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.33445545944685134
+  },
+  {
+    "image": "TrainingSet/authentic/X51005711443.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4664645405455253
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556809.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.21859198623328005
+  },
+  {
+    "image": "TrainingSet/authentic/X51006387931.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.22259935412839377
+  },
+  {
+    "image": "TrainingSet/authentic/54461025f04cec91ea4c7331286965ad578e05a6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.03811463592667738
+  },
+  {
+    "image": "TrainingSet/authentic/79f5a2e2d0863de5c7ccab9ec20159107f8e0426.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.21798249202164302
+  },
+  {
+    "image": "TrainingSet/authentic/9c66909aa45af7ba5aa5f8ab2aa79ff0677e8794.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.19695839346218683
+  },
+  {
+    "image": "TrainingSet/authentic/3471e1aa1abf4624c463fb9e0d6caa93557b3c2a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2232768261260056
+  },
+  {
+    "image": "TrainingSet/authentic/X51007846286.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6754290592442875
+  },
+  {
+    "image": "TrainingSet/authentic/X51006647984.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5237833195296749
+  },
+  {
+    "image": "TrainingSet/authentic/X51005663301.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2783208875480807
+  },
+  {
+    "image": "TrainingSet/authentic/3691.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6891735459272909
+  },
+  {
+    "image": "TrainingSet/authentic/X51006349085.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3069940459802628
+  },
+  {
+    "image": "TrainingSet/authentic/X51005806718.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2433979014335371
+  },
+  {
+    "image": "TrainingSet/authentic/1971.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3271097108346695
+  },
+  {
+    "image": "TrainingSet/authentic/X51006392122.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5796697837409903
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556657.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.44254918189349507
+  },
+  {
+    "image": "TrainingSet/authentic/X51006557178.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5557043141195211
+  },
+  {
+    "image": "TrainingSet/authentic/5388e94b17e0bfa71d7f2018181ec9d24736148a.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5275932645729614
+  },
+  {
+    "image": "TrainingSet/authentic/X51006466066.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.28199594584874094
+  },
+  {
+    "image": "TrainingSet/authentic/4213d7a1b558b3d73a65cd985ee0b95f5dca91c1.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3252947889359397
+  },
+  {
+    "image": "TrainingSet/authentic/7325a58dff6d2383fff57b1dd8efcc3457be2bd6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.27713489512330614
+  },
+  {
+    "image": "TrainingSet/authentic/76f478046418ee335546aec96a365856ca6295d4.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6744269400377945
+  },
+  {
+    "image": "TrainingSet/authentic/3455.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.004148494845112782
+  },
+  {
+    "image": "TrainingSet/authentic/7585bd472ba8fd12850c616cc969d6532ed95d57.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.04267485626427186
+  },
+  {
+    "image": "TrainingSet/authentic/X51006349086.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.12298902045832362
+  },
+  {
+    "image": "TrainingSet/authentic/98fb02bf56d4221681d5faf89b3ab57395b22e36.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.13096585643856087
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339136.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.661439766247521
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339126.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4572553932501022
+  },
+  {
+    "image": "TrainingSet/authentic/2293539f2b7df2a213d7fec6426732167006ebf4.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08386996831941568
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339657.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.48988670078587165
+  },
+  {
+    "image": "TrainingSet/authentic/1ca47460644df0e88f7ba08d3445e3be1d764641.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2304629410763847
+  },
+  {
+    "image": "TrainingSet/authentic/5be66423183188f46cde09f6bb6e5fb20fb81db0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3689085247673496
+  },
+  {
+    "image": "TrainingSet/authentic/46de3d1a8a77885026f75d00e64b577bee6ed4be.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.005712957907886994
+  },
+  {
+    "image": "TrainingSet/authentic/X51006414636.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.43035132909384505
+  },
+  {
+    "image": "TrainingSet/authentic/123792bbc93b2a6d18508eb5b185bc34fede4031.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.016466013890207434
+  },
+  {
+    "image": "TrainingSet/authentic/1946b6612d64f505c01875ebe26b34501b66fc7d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2298193280021956
+  },
+  {
+    "image": "TrainingSet/authentic/X51006557193.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.145449953120857
+  },
+  {
+    "image": "TrainingSet/authentic/3de1bb39acfb98088fc94b0240e67257c7ad3466.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3714728405073551
+  },
+  {
+    "image": "TrainingSet/authentic/X51005724621.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4666385375943439
+  },
+  {
+    "image": "TrainingSet/authentic/7459ef868dc88f271861da5e40fa6ae97406e3ec.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.19949277361644588
+  },
+  {
+    "image": "TrainingSet/authentic/X51006311758.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6297164988509295
+  },
+  {
+    "image": "TrainingSet/authentic/X51006334699.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46505673596965397
+  },
+  {
+    "image": "TrainingSet/authentic/5cebae54f4ba09b33b1fce0e300ccb132a161297.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0023324815933128103
+  },
+  {
+    "image": "TrainingSet/authentic/X51005705760.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1798232371542709
+  },
+  {
+    "image": "TrainingSet/authentic/1bfb6e4e6cb469c943313ee9a7cced2a88ae1d05.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07466246881270296
+  },
+  {
+    "image": "TrainingSet/authentic/79a22d45f0b23bbcc368e61947b3060febf5764b.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.0459635694447507
+  },
+  {
+    "image": "TrainingSet/authentic/283d5a3b89ad0a9e1da20bcc2631475005a8a9e5.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.02342244949582556
+  },
+  {
+    "image": "TrainingSet/authentic/X51005663317.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5068599771590215
+  },
+  {
+    "image": "TrainingSet/authentic/9afae0fb60f55d525daa7e98efec48533869a0a5.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.049135210276753785
+  },
+  {
+    "image": "TrainingSet/authentic/X51006714066.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.29553166512006707
+  },
+  {
+    "image": "TrainingSet/authentic/1149.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.09662487428089545
+  },
+  {
+    "image": "TrainingSet/authentic/52edee385903d860f837cb6bff503fafcda7234d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.05507332388076349
+  },
+  {
+    "image": "TrainingSet/authentic/X51005763964.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.23990851472077326
+  },
+  {
+    "image": "TrainingSet/authentic/70146938382bc4e7731af0f355a39d84ee69f2f6.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.43590160842685677
+  },
+  {
+    "image": "TrainingSet/authentic/7421366a49403c25c6c2652a09764c99b581c19e.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6398500847163022
+  },
+  {
+    "image": "TrainingSet/authentic/2153.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7798557296614553
+  },
+  {
+    "image": "TrainingSet/authentic/7a2214a2c783522c4a8a3bb0987d5986b2f3901a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1384899538751936
+  },
+  {
+    "image": "TrainingSet/authentic/208ae03cdb6c2e0d77ff1d4dc7f2c96965121991.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1868375665834846
+  },
+  {
+    "image": "TrainingSet/authentic/X51007846268.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.34353598668940494
+  },
+  {
+    "image": "TrainingSet/authentic/6cf24379a4653e02e710fd99c05771b7665703d1.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.027802446608438152
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339112.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5843858504867098
+  },
+  {
+    "image": "TrainingSet/authentic/4328.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6027034323854452
+  },
+  {
+    "image": "TrainingSet/authentic/3307.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5972900957598586
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339161.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6609111307319995
+  },
+  {
+    "image": "TrainingSet/authentic/6e26dc59f2dd4cb87b4abf96c799e86556fcc0ea.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.8770527256406945
+  },
+  {
+    "image": "TrainingSet/authentic/8ba442d1e4bf8457cf279edeffc1230855a9f5ae.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.05008879736682468
+  },
+  {
+    "image": "TrainingSet/authentic/X51006556865.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.15482937426780746
+  },
+  {
+    "image": "TrainingSet/authentic/338432f9b0b7259a2516f6fbad2cfa606828d366.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.02249809999288027
+  },
+  {
+    "image": "TrainingSet/authentic/X51007339095.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6994589361107003
+  },
+  {
+    "image": "TrainingSet/authentic/02e3a989fc0888a8dc4f5241d1cdabd2eb8bf4d4.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.01417961512382747
+  },
+  {
+    "image": "TrainingSet/authentic/57c5aa57fdf782624589f55a6b7c99146eab8861.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.22358701615480223
+  },
+  {
+    "image": "TrainingSet/authentic/X51005757199.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2997849489885047
+  },
+  {
+    "image": "TrainingSet/authentic/9728184fd3ac6fc514373ddb92b30ac063646939.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.018839989871731404
+  },
+  {
+    "image": "TrainingSet/authentic/4437.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5318697381465346
+  },
+  {
+    "image": "TrainingSet/authentic/89f720af7a86974c7c4b4c36e41eab5953b69cb8.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.3640825263809979
+  },
+  {
+    "image": "TrainingSet/authentic/X51007579726.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.579571144288811
+  },
+  {
+    "image": "TrainingSet/authentic/X51006557173.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.34907270058902584
+  },
+  {
+    "image": "TrainingSet/authentic/X51006392299.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.29614134418903276
+  },
+  {
+    "image": "TrainingSet/authentic/X51006619694.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6881654237331919
+  },
+  {
+    "image": "TrainingSet/authentic/404a6057223a31f67f654d21d44e144a1fb781a0.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07429436884230163
+  },
+  {
+    "image": "TrainingSet/authentic/X51005715007.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08673935651571132
+  },
+  {
+    "image": "TrainingSet/authentic/0c2ee907b32f7bccc6deedd6d780107ffeda251c.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.24712656406367461
+  },
+  {
+    "image": "TrainingSet/authentic/X51005757353.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.14746094655988956
+  },
+  {
+    "image": "TrainingSet/authentic/X51005444041.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7729222408371872
+  },
+  {
+    "image": "TrainingSet/authentic/479ba5e3839ed6fd9945b108bebaa14293dd141e.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5759202970439778
+  },
+  {
+    "image": "TrainingSet/authentic/4381.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.1693766831860581
+  },
+  {
+    "image": "TrainingSet/authentic/20d680d8601585802195e42a6b611bec666ea852.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08148969019284535
+  },
+  {
+    "image": "TrainingSet/authentic/0e809c1624e29ac7fa534957252fcb50e0780d0a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.027865837634210563
+  },
+  {
+    "image": "TrainingSet/authentic/0f5df5d296cb9c9a88486b513d2c4e66001faa6e.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.07122533569272396
+  },
+  {
+    "image": "TrainingSet/authentic/8b7bfc6e884edf4d6b23dc8e4dfde53a8c79e921.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2234701861354817
+  },
+  {
+    "image": "TrainingSet/authentic/X51005757233.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5532293971607832
+  },
+  {
+    "image": "TrainingSet/authentic/1ec05f9db399c3a087e193a24b17b4bce8956f8a.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.4322720523287612
+  },
+  {
+    "image": "TrainingSet/authentic/X51005677327.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.46396576617867685
+  },
+  {
+    "image": "TrainingSet/authentic/X51006913028.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.690141575623862
+  },
+  {
+    "image": "TrainingSet/authentic/X51006555780.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.45400955574687224
+  },
+  {
+    "image": "TrainingSet/authentic/2300.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.08862100480335973
+  },
+  {
+    "image": "TrainingSet/authentic/X51006912960.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.404435031647493
+  },
+  {
+    "image": "TrainingSet/authentic/2c6512feaa251a848ab63a10b19218af33de89e9.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.2218256330866539
+  },
+  {
+    "image": "TrainingSet/authentic/452.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5634420725828804
+  },
+  {
+    "image": "TrainingSet/authentic/4cfc745a92861f5fd34e02db8aa4bc8b208a093a.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.7267774723724111
+  },
+  {
+    "image": "TrainingSet/authentic/563a2dbda7bda17e8ab7b4e9931a46e0cca6c7da.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.823027232134892
+  },
+  {
+    "image": "TrainingSet/authentic/X51006913032.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.39929418223214
+  },
+  {
+    "image": "TrainingSet/authentic/0bbeb4f506d2e737f291907d70005d31e56b8b1d.png",
+    "label": 0,
+    "prediction": 0,
+    "probability": 0.01978037578034178
+  },
+  {
+    "image": "TrainingSet/authentic/2522b072b9bfde5f2031f7352abb48ef9c7207fc.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.5860459092728194
+  },
+  {
+    "image": "TrainingSet/authentic/X51006387847.png",
+    "label": 0,
+    "prediction": 1,
+    "probability": 0.6682913443745753
+  },
+  {
+    "image": "TrainingSet/images/000000103.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4776700533764504
+  },
+  {
+    "image": "TrainingSet/images/000000118.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.03724858529242555
+  },
+  {
+    "image": "TrainingSet/images/000000643.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8619984269461237
+  },
+  {
+    "image": "TrainingSet/images/000001351.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3973493824677459
+  },
+  {
+    "image": "TrainingSet/images/000001111.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.24619168523865112
+  },
+  {
+    "image": "TrainingSet/images/000001187.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3467706677260808
+  },
+  {
+    "image": "TrainingSet/images/000000120.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9839857241524463
+  },
+  {
+    "image": "TrainingSet/images/000000446.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9452635578269419
+  },
+  {
+    "image": "TrainingSet/images/000000608.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.999203311726719
+  },
+  {
+    "image": "TrainingSet/images/000000389.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.1297576516435927
+  },
+  {
+    "image": "TrainingSet/images/000000318.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9638541335661494
+  },
+  {
+    "image": "TrainingSet/images/000000997.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9360967916887575
+  },
+  {
+    "image": "TrainingSet/images/000001139.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.431488201549283
+  },
+  {
+    "image": "TrainingSet/images/000001521.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.35632515886259974
+  },
+  {
+    "image": "TrainingSet/images/000000585.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9996002359918646
+  },
+  {
+    "image": "TrainingSet/images/000000932.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6450076013662073
+  },
+  {
+    "image": "TrainingSet/images/000000544.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.21243636106772248
+  },
+  {
+    "image": "TrainingSet/images/000000800.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.47203982776334064
+  },
+  {
+    "image": "TrainingSet/images/000000005.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9586660659899858
+  },
+  {
+    "image": "TrainingSet/images/000000777.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9214317383650326
+  },
+  {
+    "image": "TrainingSet/images/000000338.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.26919514280367185
+  },
+  {
+    "image": "TrainingSet/images/000001384.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4769407844561797
+  },
+  {
+    "image": "TrainingSet/images/000001512.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5998221765933189
+  },
+  {
+    "image": "TrainingSet/images/000000438.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9144939676399305
+  },
+  {
+    "image": "TrainingSet/images/000000986.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6451122455490099
+  },
+  {
+    "image": "TrainingSet/images/000001374.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6416709772020763
+  },
+  {
+    "image": "TrainingSet/images/000000833.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7705785884127093
+  },
+  {
+    "image": "TrainingSet/images/000000341.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.663723478510686
+  },
+  {
+    "image": "TrainingSet/images/000000485.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.03160308434771872
+  },
+  {
+    "image": "TrainingSet/images/000001606.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.028955188694824774
+  },
+  {
+    "image": "TrainingSet/images/000000031.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9407032742501225
+  },
+  {
+    "image": "TrainingSet/images/000001108.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2758664996451578
+  },
+  {
+    "image": "TrainingSet/images/000000104.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9558121072226355
+  },
+  {
+    "image": "TrainingSet/images/000000201.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.998592428416964
+  },
+  {
+    "image": "TrainingSet/images/000001128.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.24414559693374976
+  },
+  {
+    "image": "TrainingSet/images/000000908.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.46366657092972346
+  },
+  {
+    "image": "TrainingSet/images/000000155.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4187911016514149
+  },
+  {
+    "image": "TrainingSet/images/000000512.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9677652042077375
+  },
+  {
+    "image": "TrainingSet/images/000000948.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.83154006783398
+  },
+  {
+    "image": "TrainingSet/images/000001404.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.1024965955516682
+  },
+  {
+    "image": "TrainingSet/images/000000376.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9714016467090195
+  },
+  {
+    "image": "TrainingSet/images/000001476.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4204249562564106
+  },
+  {
+    "image": "TrainingSet/images/000000288.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9956916073537124
+  },
+  {
+    "image": "TrainingSet/images/000000919.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.1551427544088941
+  },
+  {
+    "image": "TrainingSet/images/000001567.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.06226891060609546
+  },
+  {
+    "image": "TrainingSet/images/000001364.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3050558531876295
+  },
+  {
+    "image": "TrainingSet/images/000000393.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8450489319885005
+  },
+  {
+    "image": "TrainingSet/images/000000510.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9718567022270704
+  },
+  {
+    "image": "TrainingSet/images/000000224.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9941071737342179
+  },
+  {
+    "image": "TrainingSet/images/000000695.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8443789167157558
+  },
+  {
+    "image": "TrainingSet/images/000000825.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5735252052387525
+  },
+  {
+    "image": "TrainingSet/images/000000125.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9943136161073293
+  },
+  {
+    "image": "TrainingSet/images/000000202.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8468851573124996
+  },
+  {
+    "image": "TrainingSet/images/000001324.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.40743763789955934
+  },
+  {
+    "image": "TrainingSet/images/000001339.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.15513502760039113
+  },
+  {
+    "image": "TrainingSet/images/000000111.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.24176118599120638
+  },
+  {
+    "image": "TrainingSet/images/000000957.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.13187320868861507
+  },
+  {
+    "image": "TrainingSet/images/000000842.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7504426414713466
+  },
+  {
+    "image": "TrainingSet/images/000000868.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8363099435870534
+  },
+  {
+    "image": "TrainingSet/images/000000726.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.0702861976519955
+  },
+  {
+    "image": "TrainingSet/images/000000883.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4310011872459293
+  },
+  {
+    "image": "TrainingSet/images/000001350.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.01635121317400326
+  },
+  {
+    "image": "TrainingSet/images/000001575.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5153754130007482
+  },
+  {
+    "image": "TrainingSet/images/000000194.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8257952593008042
+  },
+  {
+    "image": "TrainingSet/images/000000390.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9848717465960918
+  },
+  {
+    "image": "TrainingSet/images/000000834.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6484738488177645
+  },
+  {
+    "image": "TrainingSet/images/000001368.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5496763984585676
+  },
+  {
+    "image": "TrainingSet/images/000000498.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5195545310419524
+  },
+  {
+    "image": "TrainingSet/images/000000969.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3886006783941793
+  },
+  {
+    "image": "TrainingSet/images/000001181.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.20075624659534513
+  },
+  {
+    "image": "TrainingSet/images/000001170.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2885607358619381
+  },
+  {
+    "image": "TrainingSet/images/000000271.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9803467131786602
+  },
+  {
+    "image": "TrainingSet/images/000001408.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4177031204991581
+  },
+  {
+    "image": "TrainingSet/images/000000439.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3023384400801723
+  },
+  {
+    "image": "TrainingSet/images/000000995.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.26079003934442374
+  },
+  {
+    "image": "TrainingSet/images/000001371.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.45414514447242305
+  },
+  {
+    "image": "TrainingSet/images/000000571.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.32750380126547396
+  },
+  {
+    "image": "TrainingSet/images/000000488.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9881216869684218
+  },
+  {
+    "image": "TrainingSet/images/000001053.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2749402319800246
+  },
+  {
+    "image": "TrainingSet/images/000001614.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.0929367209747862
+  },
+  {
+    "image": "TrainingSet/images/000000677.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2013915088361564
+  },
+  {
+    "image": "TrainingSet/images/000000065.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9846869192874842
+  },
+  {
+    "image": "TrainingSet/images/000000139.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4115603909868931
+  },
+  {
+    "image": "TrainingSet/images/000000469.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9994836228307915
+  },
+  {
+    "image": "TrainingSet/images/000000121.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8941805340952125
+  },
+  {
+    "image": "TrainingSet/images/000001293.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4527328562885154
+  },
+  {
+    "image": "TrainingSet/images/000000146.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9838046291402099
+  },
+  {
+    "image": "TrainingSet/images/000000015.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5832457709209238
+  },
+  {
+    "image": "TrainingSet/images/000001593.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.282015047011864
+  },
+  {
+    "image": "TrainingSet/images/000001206.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.43012300657551633
+  },
+  {
+    "image": "TrainingSet/images/000000472.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3849200147358151
+  },
+  {
+    "image": "TrainingSet/images/000001135.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.15958292165377463
+  },
+  {
+    "image": "TrainingSet/images/000001205.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.42527555566291875
+  },
+  {
+    "image": "TrainingSet/images/000000044.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7943912066989406
+  },
+  {
+    "image": "TrainingSet/images/000000693.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8091981059366291
+  },
+  {
+    "image": "TrainingSet/images/000000132.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.808874037148135
+  },
+  {
+    "image": "TrainingSet/images/000000461.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8457199067738317
+  },
+  {
+    "image": "TrainingSet/images/000000508.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9934216791456668
+  },
+  {
+    "image": "TrainingSet/images/000000248.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9906089422519654
+  },
+  {
+    "image": "TrainingSet/images/000000925.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.30738351230741523
+  },
+  {
+    "image": "TrainingSet/images/000001060.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3706658730297798
+  },
+  {
+    "image": "TrainingSet/images/000000898.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6175721179650975
+  },
+  {
+    "image": "TrainingSet/images/000000765.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.979698419285339
+  },
+  {
+    "image": "TrainingSet/images/000001597.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.427607862699114
+  },
+  {
+    "image": "TrainingSet/images/000001376.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.26180531789043726
+  },
+  {
+    "image": "TrainingSet/images/000001489.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.25695753272871097
+  },
+  {
+    "image": "TrainingSet/images/000000639.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.23325997776236482
+  },
+  {
+    "image": "TrainingSet/images/000000412.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3735852169244145
+  },
+  {
+    "image": "TrainingSet/images/000001536.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.396088498479872
+  },
+  {
+    "image": "TrainingSet/images/000000434.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9261456996388917
+  },
+  {
+    "image": "TrainingSet/images/000000867.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2160394194562092
+  },
+  {
+    "image": "TrainingSet/images/000001243.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.387877650235213
+  },
+  {
+    "image": "TrainingSet/images/000001081.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.18493649915690305
+  },
+  {
+    "image": "TrainingSet/images/000001498.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5962997722112284
+  },
+  {
+    "image": "TrainingSet/images/000000339.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5170251342348271
+  },
+  {
+    "image": "TrainingSet/images/000001126.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.41520688922325233
+  },
+  {
+    "image": "TrainingSet/images/000000974.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.589245238853156
+  },
+  {
+    "image": "TrainingSet/images/000001352.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5058984485938244
+  },
+  {
+    "image": "TrainingSet/images/000000263.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9914982960593363
+  },
+  {
+    "image": "TrainingSet/images/000000258.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9862485549378383
+  },
+  {
+    "image": "TrainingSet/images/000001091.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6562180089835054
+  },
+  {
+    "image": "TrainingSet/images/000000142.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5175449325083732
+  },
+  {
+    "image": "TrainingSet/images/000000996.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.32591871840915654
+  },
+  {
+    "image": "TrainingSet/images/000000176.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8425341579765658
+  },
+  {
+    "image": "TrainingSet/images/000001580.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6974669800751111
+  },
+  {
+    "image": "TrainingSet/images/000001508.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.41379755483033315
+  },
+  {
+    "image": "TrainingSet/images/000000494.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9675995783667047
+  },
+  {
+    "image": "TrainingSet/images/000000119.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.0679420904731117
+  },
+  {
+    "image": "TrainingSet/images/000000491.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5432347629585255
+  },
+  {
+    "image": "TrainingSet/images/000000630.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9989356019696207
+  },
+  {
+    "image": "TrainingSet/images/000000744.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.47709572009288687
+  },
+  {
+    "image": "TrainingSet/images/000000230.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.661201334069209
+  },
+  {
+    "image": "TrainingSet/images/000000040.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9007046319807817
+  },
+  {
+    "image": "TrainingSet/images/000001001.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2940435927761255
+  },
+  {
+    "image": "TrainingSet/images/000000664.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9295672900898453
+  },
+  {
+    "image": "TrainingSet/images/000001227.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.625427692669722
+  },
+  {
+    "image": "TrainingSet/images/000000002.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8065282025304857
+  },
+  {
+    "image": "TrainingSet/images/000001087.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6353356601235135
+  },
+  {
+    "image": "TrainingSet/images/000001105.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2272991275443639
+  },
+  {
+    "image": "TrainingSet/images/000000331.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9345853347320014
+  },
+  {
+    "image": "TrainingSet/images/000000766.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8798933956879605
+  },
+  {
+    "image": "TrainingSet/images/000001480.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4342539809977261
+  },
+  {
+    "image": "TrainingSet/images/000001599.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.043386695678045345
+  },
+  {
+    "image": "TrainingSet/images/000001532.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.324091408554875
+  },
+  {
+    "image": "TrainingSet/images/000001449.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8384244666932417
+  },
+  {
+    "image": "TrainingSet/images/000001309.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5694182097054242
+  },
+  {
+    "image": "TrainingSet/images/000000612.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.20331066957091495
+  },
+  {
+    "image": "TrainingSet/images/000001281.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4033784048714749
+  },
+  {
+    "image": "TrainingSet/images/000000218.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4159923680291254
+  },
+  {
+    "image": "TrainingSet/images/000001040.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3927710097508313
+  },
+  {
+    "image": "TrainingSet/images/000000366.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.01769219805838823
+  },
+  {
+    "image": "TrainingSet/images/000001026.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5408881991523631
+  },
+  {
+    "image": "TrainingSet/images/000000540.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8067401314705377
+  },
+  {
+    "image": "TrainingSet/images/000000007.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8822582737126042
+  },
+  {
+    "image": "TrainingSet/images/000000930.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.22851511384135012
+  },
+  {
+    "image": "TrainingSet/images/000000324.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9945540041787782
+  },
+  {
+    "image": "TrainingSet/images/000000891.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6516399374351696
+  },
+  {
+    "image": "TrainingSet/images/000000602.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6964286321978875
+  },
+  {
+    "image": "TrainingSet/images/000001623.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4567402038347266
+  },
+  {
+    "image": "TrainingSet/images/000001584.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.023382568725381307
+  },
+  {
+    "image": "TrainingSet/images/000001313.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.27692896056895033
+  },
+  {
+    "image": "TrainingSet/images/000001537.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3639849006885912
+  },
+  {
+    "image": "TrainingSet/images/000001100.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3616921629718061
+  },
+  {
+    "image": "TrainingSet/images/000001397.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9469046737962891
+  },
+  {
+    "image": "TrainingSet/images/000000235.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9583709119877
+  },
+  {
+    "image": "TrainingSet/images/000001477.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.05550221148898201
+  },
+  {
+    "image": "TrainingSet/images/000000024.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.03665252131377211
+  },
+  {
+    "image": "TrainingSet/images/000001134.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4178346246425974
+  },
+  {
+    "image": "TrainingSet/images/000000515.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9479531139176682
+  },
+  {
+    "image": "TrainingSet/images/000001084.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.433933367493873
+  },
+  {
+    "image": "TrainingSet/images/000000959.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4017758896402119
+  },
+  {
+    "image": "TrainingSet/images/000001221.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5212050938923694
+  },
+  {
+    "image": "TrainingSet/images/000000782.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5288678670039467
+  },
+  {
+    "image": "TrainingSet/images/000000789.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7449583031794098
+  },
+  {
+    "image": "TrainingSet/images/000000131.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8036209530626781
+  },
+  {
+    "image": "TrainingSet/images/000001222.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8636163770688754
+  },
+  {
+    "image": "TrainingSet/images/000001609.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2680424633892311
+  },
+  {
+    "image": "TrainingSet/images/000001394.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3058478688464337
+  },
+  {
+    "image": "TrainingSet/images/000000328.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.1292412659890319
+  },
+  {
+    "image": "TrainingSet/images/000001286.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.618238786265655
+  },
+  {
+    "image": "TrainingSet/images/000000314.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9810554404621804
+  },
+  {
+    "image": "TrainingSet/images/000000225.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5911563314434887
+  },
+  {
+    "image": "TrainingSet/images/000000097.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.48804192576707506
+  },
+  {
+    "image": "TrainingSet/images/000000187.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.801258739769725
+  },
+  {
+    "image": "TrainingSet/images/000001011.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.33719549280295064
+  },
+  {
+    "image": "TrainingSet/images/000001044.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6318162478872267
+  },
+  {
+    "image": "TrainingSet/images/000000284.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.03119299998777762
+  },
+  {
+    "image": "TrainingSet/images/000001621.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.028271827472277914
+  },
+  {
+    "image": "TrainingSet/images/000000742.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6338834365502883
+  },
+  {
+    "image": "TrainingSet/images/000000818.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.885695054531425
+  },
+  {
+    "image": "TrainingSet/images/000001196.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.43223481554943616
+  },
+  {
+    "image": "TrainingSet/images/000000878.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.26179516563613653
+  },
+  {
+    "image": "TrainingSet/images/000001198.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3592776353226571
+  },
+  {
+    "image": "TrainingSet/images/000000539.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9906729113480028
+  },
+  {
+    "image": "TrainingSet/images/000001104.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6244923641129074
+  },
+  {
+    "image": "TrainingSet/images/000001600.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.16802010983393567
+  },
+  {
+    "image": "TrainingSet/images/000000506.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9484393710576656
+  },
+  {
+    "image": "TrainingSet/images/000001617.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.03160827107130071
+  },
+  {
+    "image": "TrainingSet/images/000000543.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9799708337167139
+  },
+  {
+    "image": "TrainingSet/images/000000293.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8881146035500468
+  },
+  {
+    "image": "TrainingSet/images/000000940.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4810011606563138
+  },
+  {
+    "image": "TrainingSet/images/000001317.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6886393911758641
+  },
+  {
+    "image": "TrainingSet/images/000000811.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.08428667420624286
+  },
+  {
+    "image": "TrainingSet/images/000001023.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5242922154017432
+  },
+  {
+    "image": "TrainingSet/images/000001343.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6357349673834078
+  },
+  {
+    "image": "TrainingSet/images/000000436.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7729611362446908
+  },
+  {
+    "image": "TrainingSet/images/000000645.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8785825097007731
+  },
+  {
+    "image": "TrainingSet/images/000001471.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5453977498397159
+  },
+  {
+    "image": "TrainingSet/images/000001162.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6899304526042258
+  },
+  {
+    "image": "TrainingSet/images/000000433.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9832607859644402
+  },
+  {
+    "image": "TrainingSet/images/000000136.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.911568549980978
+  },
+  {
+    "image": "TrainingSet/images/000000549.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9802677528174788
+  },
+  {
+    "image": "TrainingSet/images/000000822.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.573091354805068
+  },
+  {
+    "image": "TrainingSet/images/000000647.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6520955230239862
+  },
+  {
+    "image": "TrainingSet/images/000001608.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.10621502909178215
+  },
+  {
+    "image": "TrainingSet/images/000000470.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3227311385032117
+  },
+  {
+    "image": "TrainingSet/images/000000115.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9982312785547064
+  },
+  {
+    "image": "TrainingSet/images/000000665.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5148951574312847
+  },
+  {
+    "image": "TrainingSet/images/000001403.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.641170885581164
+  },
+  {
+    "image": "TrainingSet/images/000000450.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9881016686800976
+  },
+  {
+    "image": "TrainingSet/images/000001141.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.374929149117712
+  },
+  {
+    "image": "TrainingSet/images/000001410.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.309697119326359
+  },
+  {
+    "image": "TrainingSet/images/000001311.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5211997642205567
+  },
+  {
+    "image": "TrainingSet/images/000000553.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7936893364639862
+  },
+  {
+    "image": "TrainingSet/images/000000778.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.46592386450536355
+  },
+  {
+    "image": "TrainingSet/images/000000947.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4495657257902624
+  },
+  {
+    "image": "TrainingSet/images/000000335.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.4540979360777052
+  },
+  {
+    "image": "TrainingSet/images/000001619.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.1536941899991701
+  },
+  {
+    "image": "TrainingSet/images/000001494.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.688945339745605
+  },
+  {
+    "image": "TrainingSet/images/000001094.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.18351135958165887
+  },
+  {
+    "image": "TrainingSet/images/000000351.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6376311517692103
+  },
+  {
+    "image": "TrainingSet/images/000001301.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6920128433489898
+  },
+  {
+    "image": "TrainingSet/images/000001248.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6889778245070248
+  },
+  {
+    "image": "TrainingSet/images/000000147.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9998975683267716
+  },
+  {
+    "image": "TrainingSet/images/000001328.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.05995857553021369
+  },
+  {
+    "image": "TrainingSet/images/000001400.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9891561904320507
+  },
+  {
+    "image": "TrainingSet/images/000001438.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.623164407094599
+  },
+  {
+    "image": "TrainingSet/images/000000547.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9809366647216181
+  },
+  {
+    "image": "TrainingSet/images/000001373.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6013674926371461
+  },
+  {
+    "image": "TrainingSet/images/000000430.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8696605724230767
+  },
+  {
+    "image": "TrainingSet/images/000000728.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.14470003545734478
+  },
+  {
+    "image": "TrainingSet/images/000000759.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8848381396912383
+  },
+  {
+    "image": "TrainingSet/images/000000334.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9070171790354827
+  },
+  {
+    "image": "TrainingSet/images/000000748.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3674615111143732
+  },
+  {
+    "image": "TrainingSet/images/000001302.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5953767824880719
+  },
+  {
+    "image": "TrainingSet/images/000000929.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7912715798686868
+  },
+  {
+    "image": "TrainingSet/images/000001583.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.1653456097222688
+  },
+  {
+    "image": "TrainingSet/images/000001576.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.08507946993769272
+  },
+  {
+    "image": "TrainingSet/images/000000207.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.26190273505153977
+  },
+  {
+    "image": "TrainingSet/images/000001604.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.06521434583581258
+  },
+  {
+    "image": "TrainingSet/images/000000164.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9600677616592433
+  },
+  {
+    "image": "TrainingSet/images/000000593.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9397943528197699
+  },
+  {
+    "image": "TrainingSet/images/000000467.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9017195035238067
+  },
+  {
+    "image": "TrainingSet/images/000001355.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5239619118608478
+  },
+  {
+    "image": "TrainingSet/images/000000094.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.12319673288091038
+  },
+  {
+    "image": "TrainingSet/images/000000143.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.11498553713167392
+  },
+  {
+    "image": "TrainingSet/images/000001443.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2143889155433463
+  },
+  {
+    "image": "TrainingSet/images/000000394.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7182109943708107
+  },
+  {
+    "image": "TrainingSet/images/000001183.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.45402007292787855
+  },
+  {
+    "image": "TrainingSet/images/000000741.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9719162982969186
+  },
+  {
+    "image": "TrainingSet/images/000001267.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.22323862590904867
+  },
+  {
+    "image": "TrainingSet/images/000001288.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5311649148417047
+  },
+  {
+    "image": "TrainingSet/images/000000601.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.18149721088515375
+  },
+  {
+    "image": "TrainingSet/images/000001131.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.29231393730700383
+  },
+  {
+    "image": "TrainingSet/images/000000162.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7212830757981525
+  },
+  {
+    "image": "TrainingSet/images/000000776.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3659427536670446
+  },
+  {
+    "image": "TrainingSet/images/000000256.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.998081174697832
+  },
+  {
+    "image": "TrainingSet/images/000001099.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8562566866070067
+  },
+  {
+    "image": "TrainingSet/images/000000941.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5511621963133471
+  },
+  {
+    "image": "TrainingSet/images/000001495.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.22857307956167308
+  },
+  {
+    "image": "TrainingSet/images/000000089.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9502541495293944
+  },
+  {
+    "image": "TrainingSet/images/000000542.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.860266076583398
+  },
+  {
+    "image": "TrainingSet/images/000001237.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.12406654592686844
+  },
+  {
+    "image": "TrainingSet/images/000000705.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8815256414786983
+  },
+  {
+    "image": "TrainingSet/images/000000736.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5835809664022507
+  },
+  {
+    "image": "TrainingSet/images/000000199.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9769540854384513
+  },
+  {
+    "image": "TrainingSet/images/000000779.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3183786323493552
+  },
+  {
+    "image": "TrainingSet/images/000000190.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2053607522939671
+  },
+  {
+    "image": "TrainingSet/images/000001615.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.10364236863856177
+  },
+  {
+    "image": "TrainingSet/images/000000690.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5638450380781087
+  },
+  {
+    "image": "TrainingSet/images/000001564.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.0598787731763887
+  },
+  {
+    "image": "TrainingSet/images/000000441.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6002838646047423
+  },
+  {
+    "image": "TrainingSet/images/000000319.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7484916742082768
+  },
+  {
+    "image": "TrainingSet/images/000001590.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3546521265472233
+  },
+  {
+    "image": "TrainingSet/images/000000697.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.35709812598919727
+  },
+  {
+    "image": "TrainingSet/images/000000866.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.34255987539762234
+  },
+  {
+    "image": "TrainingSet/images/000001430.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.6198411982662737
+  },
+  {
+    "image": "TrainingSet/images/000000327.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9979202772584931
+  },
+  {
+    "image": "TrainingSet/images/000001555.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.570435347713523
+  },
+  {
+    "image": "TrainingSet/images/000000014.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9360081026075542
+  },
+  {
+    "image": "TrainingSet/images/000000570.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9764018163020526
+  },
+  {
+    "image": "TrainingSet/images/000001207.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.36046249075072556
+  },
+  {
+    "image": "TrainingSet/images/000000920.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5466295875652931
+  },
+  {
+    "image": "TrainingSet/images/000000452.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.9927134687362267
+  },
+  {
+    "image": "TrainingSet/images/000000860.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2943809831545002
+  },
+  {
+    "image": "TrainingSet/images/000001612.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3523057454076341
+  },
+  {
+    "image": "TrainingSet/images/000001437.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8870304081074116
+  },
+  {
+    "image": "TrainingSet/images/000001331.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5212972743197984
+  },
+  {
+    "image": "TrainingSet/images/000001467.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7127653173716552
+  },
+  {
+    "image": "TrainingSet/images/000000408.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7381964187692495
+  },
+  {
+    "image": "TrainingSet/images/000001150.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.057333891248742885
+  },
+  {
+    "image": "TrainingSet/images/000000055.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.996679076885297
+  },
+  {
+    "image": "TrainingSet/images/000001233.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.402893892732747
+  },
+  {
+    "image": "TrainingSet/images/000001035.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5619733431418676
+  },
+  {
+    "image": "TrainingSet/images/000000477.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8741107752691541
+  },
+  {
+    "image": "TrainingSet/images/000000448.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.947474327590108
+  },
+  {
+    "image": "TrainingSet/images/000000192.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.37010043374898705
+  },
+  {
+    "image": "TrainingSet/images/000000062.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.273820382336397
+  },
+  {
+    "image": "TrainingSet/images/000000066.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.17544206616352234
+  },
+  {
+    "image": "TrainingSet/images/000000865.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.49653694493985034
+  },
+  {
+    "image": "TrainingSet/images/000001210.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.15988597350828365
+  },
+  {
+    "image": "TrainingSet/images/000000179.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8510268965766995
+  },
+  {
+    "image": "TrainingSet/images/000001117.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.2284233888398862
+  },
+  {
+    "image": "TrainingSet/images/000001517.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3185337525089358
+  },
+  {
+    "image": "TrainingSet/images/000001386.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.38359026573543337
+  },
+  {
+    "image": "TrainingSet/images/000000210.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.3684467637351459
+  },
+  {
+    "image": "TrainingSet/images/000001509.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.09605653508671617
+  },
+  {
+    "image": "TrainingSet/images/000000286.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.22729534615709956
+  },
+  {
+    "image": "TrainingSet/images/000000458.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.19961707100713083
+  },
+  {
+    "image": "TrainingSet/images/000000502.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.011294727482587629
+  },
+  {
+    "image": "TrainingSet/images/000000564.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.24472259911849534
+  },
+  {
+    "image": "TrainingSet/images/000001519.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.8280191014153836
+  },
+  {
+    "image": "TrainingSet/images/000000052.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.5701580944818306
+  },
+  {
+    "image": "TrainingSet/images/000000229.png",
+    "label": 1,
+    "prediction": 1,
+    "probability": 0.7801935099914431
+  },
+  {
+    "image": "TrainingSet/images/000001310.png",
+    "label": 1,
+    "prediction": 0,
+    "probability": 0.29761302506649706
+  }
+]

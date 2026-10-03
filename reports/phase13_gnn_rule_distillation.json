@@ -1,0 +1,127 @@
+{
+  "status": "evaluated_rule_distillation_prototype",
+  "architecture": "2-layer PyTorch Geometric GCNConv plus edge MLP",
+  "node_features": [
+    "document_type_one_hot",
+    "normalized_numeric_value",
+    "field_presence",
+    "person_name_presence",
+    "company_presence",
+    "currency_presence",
+    "heuristic_tampering_flag"
+  ],
+  "edge_features": [
+    "rule_type_one_hot",
+    "normalized_numeric_difference",
+    "numeric_ratio",
+    "text_equality",
+    "numeric_values_present"
+  ],
+  "label_mapping": {
+    "PASS": 0,
+    "FAIL": 1,
+    "INSUFFICIENT_DATA": 2
+  },
+  "label_method": "PASS/FAIL/INSUFFICIENT_DATA labels are outputs of the existing deterministic cross-document verifier on documented synthetic software-test scenarios; not fraud labels or independent ground truth.",
+  "counts": {
+    "train": 7,
+    "validation": 2,
+    "test": 2
+  },
+  "metrics": {
+    "train": {
+      "sample_count": 7,
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "roc_auc_ovr_macro": 1.0,
+      "confusion_matrix": [
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "class_order": [
+        "PASS",
+        "FAIL",
+        "INSUFFICIENT_DATA"
+      ]
+    },
+    "validation": {
+      "sample_count": 2,
+      "accuracy": 1.0,
+      "precision_macro": 0.6666666666666666,
+      "recall_macro": 0.6666666666666666,
+      "f1_macro": 0.6666666666666666,
+      "roc_auc_ovr_macro": null,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "class_order": [
+        "PASS",
+        "FAIL",
+        "INSUFFICIENT_DATA"
+      ]
+    },
+    "test": {
+      "sample_count": 2,
+      "accuracy": 0.0,
+      "precision_macro": 0.0,
+      "recall_macro": 0.0,
+      "f1_macro": 0.0,
+      "roc_auc_ovr_macro": null,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "class_order": [
+        "PASS",
+        "FAIL",
+        "INSUFFICIENT_DATA"
+      ]
+    }
+  },
+  "training_seconds": 6.591,
+  "seed": 42,
+  "checkpoint": "models\\cross_document_gnn\\rule_distillation_gcn.pt",
+  "limitation": "Tiny rule-distillation fixture set; metrics measure agreement with the existing rules only and do not establish learned generalization or fraud performance."
+}

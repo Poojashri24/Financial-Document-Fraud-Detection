@@ -1,0 +1,3 @@
+﻿Scenario,Salary,Bank credit,Verification,Risk score/level
+Synthetic matching integration,"₹35,000","₹35,000",PASS,16 / LOW
+Synthetic mismatch integration,"₹35,000","₹25,000",FAIL,45 / MODERATE

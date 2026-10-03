@@ -1,0 +1,53 @@
+{
+  "status": "evaluated",
+  "dataset": "AIForge-Doc-v1",
+  "split": "TestingSet",
+  "manifest": "reports/phase12b_official_testing_manifest.json",
+  "classifier_artifact": "models/tampering_feature_baseline/logistic_regression.pkl",
+  "backbone": "mobilenet_v3_small",
+  "pretrained_backbone": true,
+  "backbone_frozen": true,
+  "preprocessing": {
+    "color_mode": "RGB",
+    "image_size": [
+      64,
+      64
+    ],
+    "normalization_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "normalization_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "batch_size": 64,
+    "feature_extraction": "torch.inference_mode"
+  },
+  "sample_count": 1624,
+  "class_counts": {
+    "authentic": 812,
+    "forged": 812
+  },
+  "metrics": {
+    "accuracy": 0.520936,
+    "precision": 0.526074,
+    "recall": 0.422414,
+    "f1_score": 0.468579,
+    "roc_auc": 0.517846,
+    "confusion_matrix": {
+      "tn": 503,
+      "fp": 309,
+      "fn": 469,
+      "tp": 343
+    },
+    "sample_count": 1624
+  },
+  "predictions_path": "reports\\phase12b_official_test_predictions.json",
+  "runtime_seconds": 264.401,
+  "seed": 42,
+  "classifier_fitted": false,
+  "testing_set_used": true
+}

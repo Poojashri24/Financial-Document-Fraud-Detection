@@ -1,0 +1,44 @@
+{
+  "status": "evaluated",
+  "dataset": "AIForge-Doc-v1",
+  "manifest": "reports/phase12b1_train_validation_split.json",
+  "split": "validation",
+  "seed": 42,
+  "device": "cpu",
+  "backbone": "mobilenet_v3_small",
+  "pretrained_backbone": true,
+  "backbone_frozen": true,
+  "classifier": "sklearn LogisticRegression",
+  "manifest_counts": {
+    "total": 3248,
+    "train": 2598,
+    "validation": 650,
+    "train_authentic": 1299,
+    "train_forged": 1299,
+    "validation_authentic": 325,
+    "validation_forged": 325
+  },
+  "metrics": {
+    "accuracy": 0.607692,
+    "precision": 0.626812,
+    "recall": 0.532308,
+    "f1_score": 0.575707,
+    "roc_auc": 0.68267,
+    "confusion_matrix": {
+      "tn": 222,
+      "fp": 103,
+      "fn": 152,
+      "tp": 173
+    },
+    "sample_count": 650
+  },
+  "artifacts": {
+    "train_features": "models\\tampering_feature_baseline\\train_features.pt",
+    "validation_features": "models\\tampering_feature_baseline\\validation_features.pt",
+    "classifier": "models\\tampering_feature_baseline\\logistic_regression.pkl",
+    "config": "reports\\phase12b_feature_baseline_config.json",
+    "predictions": "reports\\phase12b_feature_baseline_validation_predictions.json"
+  },
+  "runtime_seconds": 255.897,
+  "warning": "Validation metrics use only the AIForge-Doc-v1 TrainingSet manifest split; TestingSet was not used."
+}

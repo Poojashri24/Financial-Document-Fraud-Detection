@@ -1,0 +1,8 @@
+﻿Item,Verified configuration,Use
+AIForge-Doc-v1 training subset,"1,624 authentic + 1,624 forged; 1,624 paired masks",Visual tampering training/validation
+Train split,"1,299 authentic + 1,299 forged",Model fitting
+Validation split,325 authentic + 325 forged; seed 42,Model selection / early stopping
+Official TestingSet,"812 authentic + 812 forged; 1,624 total",Locked final visual-model evaluation only
+Input/preprocessing,Original baseline 64x64 RGB; fine-tune 96x96 RGB; ImageNet normalization,Tampering model
+SROIE,Document-understanding / receipt field context; no tampering labels,Not a fraud benchmark
+Synthetic PDFs,Matching and mismatch salary/bank fixtures,Software integration tests only

@@ -1,0 +1,83 @@
+{
+  "model": "MobileNetV3-Small partial fine-tune",
+  "features": "cached activations from frozen early blocks; final 3 MobileNetV3-Small feature blocks plus classifier fine-tuned",
+  "preprocessing": {
+    "rgb": true,
+    "image_size": 96,
+    "normalization": "ImageNet mean/std",
+    "train_augmentation": "small affine, crop, brightness/contrast from existing dataset builder"
+  },
+  "split_counts": {
+    "total": 3248,
+    "train": 2598,
+    "validation": 650,
+    "train_authentic": 1299,
+    "train_forged": 1299,
+    "validation_authentic": 325,
+    "validation_forged": 325
+  },
+  "validation_metrics": {
+    "accuracy": 0.675385,
+    "precision": 0.69,
+    "recall": 0.636923,
+    "f1": 0.6624,
+    "roc_auc": 0.762149,
+    "confusion_matrix": {
+      "tn": 232,
+      "fp": 93,
+      "fn": 118,
+      "tp": 207
+    },
+    "sample_count": 650
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6590957727406556,
+      "validation": {
+        "accuracy": 0.630769,
+        "precision": 0.66537,
+        "recall": 0.526154,
+        "f1": 0.587629,
+        "roc_auc": 0.726864,
+        "confusion_matrix": {
+          "tn": 239,
+          "fp": 86,
+          "fn": 154,
+          "tp": 171
+        },
+        "sample_count": 650
+      }
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5363254859137296,
+      "validation": {
+        "accuracy": 0.675385,
+        "precision": 0.69,
+        "recall": 0.636923,
+        "f1": 0.6624,
+        "roc_auc": 0.762149,
+        "confusion_matrix": {
+          "tn": 232,
+          "fp": 93,
+          "fn": 118,
+          "tp": 207
+        },
+        "sample_count": 650
+      }
+    }
+  ],
+  "runtime_seconds": 366.387,
+  "feature_extraction_seconds": 212.213,
+  "classifier_and_finetune_seconds": 23.472,
+  "seed": 42,
+  "official_testing_set_used": false,
+  "checkpoint": "models\\tampering_feature_baseline\\mobilenet_v3_small_finetuned_96.pt",
+  "cached_features": {
+    "train": "models\\tampering_feature_baseline\\train_frozen_prefix_features.pt",
+    "validation": "models\\tampering_feature_baseline\\validation_frozen_prefix_features.pt"
+  },
+  "selection_rule": "Best validation F1; early stopping on validation F1 only.",
+  "pretrained_weights_downloaded": false
+}

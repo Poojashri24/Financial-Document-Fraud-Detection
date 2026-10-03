@@ -1,0 +1,33 @@
+{
+  "dataset": "AIForge-Doc-v1",
+  "split": "official TestingSet",
+  "model": "MobileNetV3-Small partial fine-tune at 96x96",
+  "checkpoint": "models\\tampering_feature_baseline\\mobilenet_v3_small_finetuned_96.pt",
+  "manifest": "reports\\phase12b_official_testing_manifest.json",
+  "sample_count": 1624,
+  "class_counts": {
+    "authentic": 812,
+    "forged": 812
+  },
+  "metrics": {
+    "accuracy": 0.501847,
+    "precision": 0.502098,
+    "recall": 0.442118,
+    "f1": 0.470203,
+    "roc_auc": 0.510476,
+    "confusion_matrix": {
+      "tn": 456,
+      "fp": 356,
+      "fn": 453,
+      "tp": 359
+    },
+    "sample_count": 1624
+  },
+  "runtime_seconds": 337.753,
+  "seed": 42,
+  "selected_using": "validation F1 only",
+  "classifier_fitted_on_test": false,
+  "threshold_changed_on_test": false,
+  "predictions_path": "reports\\phase13_representation_official_test_predictions.json",
+  "warning": "Tampering-model results only; not overall fraud-detection performance."
+}

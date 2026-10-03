@@ -1,0 +1,96 @@
+{
+  "selection_criterion": "Highest validation F1, then ROC-AUC, then accuracy",
+  "training_source": "Existing train feature cache only",
+  "selection_source": "Existing validation feature cache only",
+  "official_testing_set_used_for_selection": false,
+  "seed": 42,
+  "selected_model": "HistGradientBoosting",
+  "selected_artifact": "models\\tampering_feature_baseline\\validation_selected_classifier.pkl",
+  "results": [
+    {
+      "model": "Existing LogisticRegression",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.607692,
+      "precision": 0.626812,
+      "recall": 0.532308,
+      "f1": 0.575707,
+      "roc_auc": 0.68267,
+      "training_seconds": 0.055,
+      "validation_count": 650
+    },
+    {
+      "model": "Standardized LogisticRegression",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.590769,
+      "precision": 0.598662,
+      "recall": 0.550769,
+      "f1": 0.573718,
+      "roc_auc": 0.660364,
+      "training_seconds": 0.947,
+      "validation_count": 650
+    },
+    {
+      "model": "Linear SVM",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.6,
+      "precision": 0.61324,
+      "recall": 0.541538,
+      "f1": 0.575163,
+      "roc_auc": 0.663796,
+      "training_seconds": 232.974,
+      "validation_count": 650
+    },
+    {
+      "model": "RBF SVM",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.616923,
+      "precision": 0.625828,
+      "recall": 0.581538,
+      "f1": 0.602871,
+      "roc_auc": 0.681884,
+      "training_seconds": 24.168,
+      "validation_count": 650
+    },
+    {
+      "model": "Random Forest",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.635385,
+      "precision": 0.64966,
+      "recall": 0.587692,
+      "f1": 0.617124,
+      "roc_auc": 0.704062,
+      "training_seconds": 7.73,
+      "validation_count": 650
+    },
+    {
+      "model": "HistGradientBoosting",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.650769,
+      "precision": 0.667808,
+      "recall": 0.6,
+      "f1": 0.632091,
+      "roc_auc": 0.701387,
+      "training_seconds": 17.904,
+      "validation_count": 650
+    },
+    {
+      "model": "MLP 128",
+      "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+      "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+      "accuracy": 0.62,
+      "precision": 0.629139,
+      "recall": 0.584615,
+      "f1": 0.606061,
+      "roc_auc": 0.699948,
+      "training_seconds": 1.199,
+      "validation_count": 650
+    }
+  ],
+  "limitation": "Validation-based model selection; official TestingSet remains held out from this comparison."
+}

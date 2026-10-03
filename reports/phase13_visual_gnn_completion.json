@@ -1,0 +1,328 @@
+{
+  "phase": "13",
+  "visual_model_selection": {
+    "criterion": "Highest validation F1, then ROC-AUC, then accuracy",
+    "official_testing_set_used_for_selection": false,
+    "comparison_report": "reports/phase13_visual_model_comparison.json",
+    "classifier_comparison": [
+      {
+        "model": "Existing LogisticRegression",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.607692,
+        "precision": 0.626812,
+        "recall": 0.532308,
+        "f1": 0.575707,
+        "roc_auc": 0.68267,
+        "training_seconds": 0.055,
+        "validation_count": 650
+      },
+      {
+        "model": "Standardized LogisticRegression",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.590769,
+        "precision": 0.598662,
+        "recall": 0.550769,
+        "f1": 0.573718,
+        "roc_auc": 0.660364,
+        "training_seconds": 0.947,
+        "validation_count": 650
+      },
+      {
+        "model": "Linear SVM",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.6,
+        "precision": 0.61324,
+        "recall": 0.541538,
+        "f1": 0.575163,
+        "roc_auc": 0.663796,
+        "training_seconds": 232.974,
+        "validation_count": 650
+      },
+      {
+        "model": "RBF SVM",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.616923,
+        "precision": 0.625828,
+        "recall": 0.581538,
+        "f1": 0.602871,
+        "roc_auc": 0.681884,
+        "training_seconds": 24.168,
+        "validation_count": 650
+      },
+      {
+        "model": "Random Forest",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.635385,
+        "precision": 0.64966,
+        "recall": 0.587692,
+        "f1": 0.617124,
+        "roc_auc": 0.704062,
+        "training_seconds": 7.73,
+        "validation_count": 650
+      },
+      {
+        "model": "HistGradientBoosting",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.650769,
+        "precision": 0.667808,
+        "recall": 0.6,
+        "f1": 0.632091,
+        "roc_auc": 0.701387,
+        "training_seconds": 17.904,
+        "validation_count": 650
+      },
+      {
+        "model": "MLP 128",
+        "features": "MobileNetV3-Small frozen, cached 576-dimensional features",
+        "preprocessing": "Existing 64x64 RGB and ImageNet normalization",
+        "accuracy": 0.62,
+        "precision": 0.629139,
+        "recall": 0.584615,
+        "f1": 0.606061,
+        "roc_auc": 0.699948,
+        "training_seconds": 1.199,
+        "validation_count": 650
+      }
+    ],
+    "representation_learning_experiment": {
+      "model": "MobileNetV3-Small partial fine-tune",
+      "features": "cached activations from frozen early blocks; final 3 MobileNetV3-Small feature blocks plus classifier fine-tuned",
+      "preprocessing": {
+        "rgb": true,
+        "image_size": 96,
+        "normalization": "ImageNet mean/std",
+        "train_augmentation": "small affine, crop, brightness/contrast from existing dataset builder"
+      },
+      "validation_metrics": {
+        "accuracy": 0.675385,
+        "precision": 0.69,
+        "recall": 0.636923,
+        "f1": 0.6624,
+        "roc_auc": 0.762149,
+        "confusion_matrix": {
+          "tn": 232,
+          "fp": 93,
+          "fn": 118,
+          "tp": 207
+        },
+        "sample_count": 650
+      },
+      "runtime_seconds": 366.387,
+      "checkpoint": "models\\tampering_feature_baseline\\mobilenet_v3_small_finetuned_96.pt"
+    },
+    "selected_by_validation_f1": "MobileNetV3-Small partial fine-tune",
+    "selected_validation_metrics": {
+      "accuracy": 0.675385,
+      "precision": 0.69,
+      "recall": 0.636923,
+      "f1": 0.6624,
+      "roc_auc": 0.762149,
+      "confusion_matrix": {
+        "tn": 232,
+        "fp": 93,
+        "fn": 118,
+        "tp": 207
+      },
+      "sample_count": 650
+    },
+    "selected_candidate_promoted_to_active_detector": false,
+    "selection_reason": "Its validation F1 (0.662400) exceeded the previous classifier comparison. It was not promoted because its one-time official test result did not improve on the original LogisticRegression test performance."
+  },
+  "visual_test_results": {
+    "original_logistic_regression": {
+      "artifact": "models/tampering_feature_baseline/logistic_regression.pkl",
+      "metrics": {
+        "accuracy": 0.520936,
+        "precision": 0.526074,
+        "recall": 0.422414,
+        "f1_score": 0.468579,
+        "roc_auc": 0.517846,
+        "confusion_matrix": {
+          "tn": 503,
+          "fp": 309,
+          "fn": 469,
+          "tp": 343
+        },
+        "sample_count": 1624
+      },
+      "sample_count": 1624,
+      "report": "reports/phase12b_official_test_results.json"
+    },
+    "previous_hist_gradient_boosting": {
+      "metrics": {
+        "accuracy": 0.493227,
+        "precision": 0.491876,
+        "recall": 0.410099,
+        "f1": 0.44728,
+        "roc_auc": 0.502733
+      },
+      "confusion_matrix": {
+        "tn": 468,
+        "fp": 344,
+        "fn": 479,
+        "tp": 333
+      },
+      "sample_count": 1624,
+      "report": "reports/phase13_visual_model_official_test.json"
+    },
+    "validation_selected_partial_finetune": {
+      "metrics": {
+        "accuracy": 0.501847,
+        "precision": 0.502098,
+        "recall": 0.442118,
+        "f1": 0.470203,
+        "roc_auc": 0.510476,
+        "confusion_matrix": {
+          "tn": 456,
+          "fp": 356,
+          "fn": 453,
+          "tp": 359
+        },
+        "sample_count": 1624
+      },
+      "confusion_matrix": {
+        "tn": 456,
+        "fp": 356,
+        "fn": 453,
+        "tp": 359
+      },
+      "sample_count": 1624,
+      "report": "reports/phase13_representation_official_test.json",
+      "promoted": false
+    }
+  },
+  "gNN_rule_distillation": {
+    "status": "evaluated_rule_distillation_prototype",
+    "architecture": "2-layer PyTorch Geometric GCNConv plus edge MLP",
+    "node_features": [
+      "document_type_one_hot",
+      "normalized_numeric_value",
+      "field_presence",
+      "person_name_presence",
+      "company_presence",
+      "currency_presence",
+      "heuristic_tampering_flag"
+    ],
+    "edge_features": [
+      "rule_type_one_hot",
+      "normalized_numeric_difference",
+      "numeric_ratio",
+      "text_equality",
+      "numeric_values_present"
+    ],
+    "label_mapping": {
+      "PASS": 0,
+      "FAIL": 1,
+      "INSUFFICIENT_DATA": 2
+    },
+    "label_method": "PASS/FAIL/INSUFFICIENT_DATA labels are outputs of the existing deterministic cross-document verifier on documented synthetic software-test scenarios; not fraud labels or independent ground truth.",
+    "counts": {
+      "train": 7,
+      "validation": 2,
+      "test": 2
+    },
+    "metrics": {
+      "train": {
+        "sample_count": 7,
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0,
+        "roc_auc_ovr_macro": 1.0,
+        "confusion_matrix": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            4,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "class_order": [
+          "PASS",
+          "FAIL",
+          "INSUFFICIENT_DATA"
+        ]
+      },
+      "validation": {
+        "sample_count": 2,
+        "accuracy": 1.0,
+        "precision_macro": 0.6666666666666666,
+        "recall_macro": 0.6666666666666666,
+        "f1_macro": 0.6666666666666666,
+        "roc_auc_ovr_macro": null,
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "class_order": [
+          "PASS",
+          "FAIL",
+          "INSUFFICIENT_DATA"
+        ]
+      },
+      "test": {
+        "sample_count": 2,
+        "accuracy": 0.0,
+        "precision_macro": 0.0,
+        "recall_macro": 0.0,
+        "f1_macro": 0.0,
+        "roc_auc_ovr_macro": null,
+        "confusion_matrix": [
+          [
+            0,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "class_order": [
+          "PASS",
+          "FAIL",
+          "INSUFFICIENT_DATA"
+        ]
+      }
+    },
+    "training_seconds": 6.591,
+    "seed": 42,
+    "checkpoint": "models\\cross_document_gnn\\rule_distillation_gcn.pt",
+    "limitation": "Tiny rule-distillation fixture set; metrics measure agreement with the existing rules only and do not establish learned generalization or fraud performance."
+  },
+  "research_scope_warning": "Visual metrics are tampering-model metrics. GNN metrics measure agreement with deterministic verification rules on tiny synthetic scenarios. Neither is overall fraud-detection accuracy."
+}

@@ -1,0 +1,2 @@
+﻿Architecture,Train scenarios,Validation scenarios,Test scenarios,Held-out agreement,Purpose,Limitations
+2-layer PyTorch Geometric GCNConv plus edge MLP,7,2,2,0.000 on n=2,Rule-distillation agreement,Synthetic rules; not independent fraud labels

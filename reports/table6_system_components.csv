@@ -1,0 +1,11 @@
+﻿Component,Purpose,Implementation,Output
+OCR,Extract text,Tesseract on PDF-rendered/image inputs,OCR text and status
+Classification,Identify document type,Keyword/rule heuristic,Document type and evidence
+Extraction,Read structured fields,Type-specific regex/normalization,"Names, amounts, dates, identifiers"
+Cross-document verification,Check field consistency,Deterministic explicit rules,PASS/FAIL/WARNING/INSUFFICIENT_DATA
+Tampering,Visual evidence,Forensic heuristic + AIForge visual baseline,Separate signals; neither proves fraud
+Fusion,Combine evidence,Modality/source aggregation,Traceable evidence items
+GNN,Relational advisory evidence,2-layer PyG GCN + edge classifier,Rule-distillation prediction
+Reasoning,Explain evidence,Deterministic evidence-grounded fallback,Findings and limitations
+Risk scoring,Summarize evidence,Heuristic contributions; not calibrated,"Score, level, breakdown"
+Explainability,Present comparisons,Consistency graph/dashboard,Rule status and explanation

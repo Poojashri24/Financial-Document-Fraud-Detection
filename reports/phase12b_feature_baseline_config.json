@@ -1,0 +1,11 @@
+{
+  "manifest_path": "reports/phase12b1_train_validation_split.json",
+  "artifact_dir": "models/tampering_feature_baseline",
+  "reports_dir": "reports",
+  "seed": 42,
+  "image_size": 64,
+  "batch_size": 64,
+  "max_iter": 200,
+  "pretrained": true,
+  "backbone": "mobilenet_v3_small"
+}
